@@ -1,0 +1,22 @@
+E:\ElectroITSolutions.Web\ElectroITSolutions.Web\obj\Debug\ElectroITSolutions.Web.csprojResolveAssemblyReference.cache
+E:\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\ElectroITSolutions.Web.dll
+E:\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\ElectroITSolutions.Web.pdb
+E:\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\ElectroITSolutions.dll
+E:\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\ElectroITSolutions.pdb
+E:\ElectroITSolutions.Web\ElectroITSolutions.Web\obj\Debug\ElectroITSolutions.Web.dll
+E:\ElectroITSolutions.Web\ElectroITSolutions.Web\obj\Debug\ElectroITSolutions.Web.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\ElectroITSolutions.Web.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\ElectroITSolutions.Web.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\ElectroITSolutions.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\Microsoft.Practices.ServiceLocation.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\Microsoft.Practices.Unity.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\Microsoft.Practices.Unity.Interception.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\ElectroITSolutions.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\Microsoft.Practices.Unity.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\bin\Microsoft.Practices.Unity.Interception.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\obj\Debug\ElectroITSolutions.Web.csprojResolveAssemblyReference.cache
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\obj\Debug\ElectroITSolutions.Web.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions.Web\obj\Debug\ElectroITSolutions.Web.pdb

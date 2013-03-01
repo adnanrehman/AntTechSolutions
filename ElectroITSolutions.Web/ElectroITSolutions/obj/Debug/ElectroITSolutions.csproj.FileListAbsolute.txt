@@ -1,0 +1,19 @@
+E:\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\ElectroITSolutions.dll
+E:\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\ElectroITSolutions.pdb
+E:\ElectroITSolutions.Web\ElectroITSolutions\obj\Debug\ElectroITSolutions.dll
+E:\ElectroITSolutions.Web\ElectroITSolutions\obj\Debug\ElectroITSolutions.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\ElectroITSolutions.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\ElectroITSolutions.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.Unity.Configuration.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\obj\Debug\ElectroITSolutions.csprojResolveAssemblyReference.cache
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\obj\Debug\ElectroITSolutions.dll
+D:\Working Folder\ElectroITSolutions.Web\ElectroITSolutions\obj\Debug\ElectroITSolutions.pdb
